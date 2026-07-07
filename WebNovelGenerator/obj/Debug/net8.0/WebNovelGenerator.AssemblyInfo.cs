@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebNovelGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+435593b86f2c3e4e9a55ed38ababd0eb6c2bf3f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984955d44aa8236396dc732db5b798eaa607e588")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebNovelGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebNovelGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

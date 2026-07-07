@@ -1,10 +1,15 @@
-﻿namespace WebNovelGenerator
+﻿using System.Security.Cryptography.X509Certificates;
+using System.Threading.Tasks;
+
+namespace WebNovelGenerator
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var test = new PlaywrightTest();
+
+            await test.GetScreenshot();
         }
     }
 }
